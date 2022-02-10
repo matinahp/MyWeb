@@ -179,12 +179,6 @@ h4{
     margin: 25px;
 }
 
-@media (max-width: 800px ){
-    .about-text{
-        
-    }
-}
-
 .main{
     width: 1130px;
     max-width: 95%;
